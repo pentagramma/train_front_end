@@ -1,2 +1,3 @@
 # train_front_end
-Front end for train soft
+
+## admin: admin@example.com - adming
